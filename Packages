@@ -16,7 +16,7 @@ Package: com.supermamon.redrectangle
 Version: 1.6.9-1
 Section: Tweaks
 Maintainer: Reposi3 <klayaa@me.com>
-Depends:
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.lesgarcons.redrectangle_1.0_iphoneos-arm.deb
 Size: 860
@@ -24,5 +24,5 @@ MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Klay Adams
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Depiction: https://klay326.github.io/Coercere-Repo/depictions/?p=com.supermamon.redrectangle
 
