@@ -1,0 +1,8 @@
+Origin: Klay's Repo
+Label: Klay's Repo
+Suite: stable
+Version: 69
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Klay's Repo
