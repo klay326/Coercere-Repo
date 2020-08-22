@@ -1,8 +1,8 @@
-Origin: Klay's Repo
-Label: Klay's Repo
+Origin: (Modify)
+Label: (Modify)
 Suite: stable
-Version: 69
+Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Klay's Repo
+Description: (Modify)
